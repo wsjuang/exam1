@@ -12,3 +12,4 @@ C:\Users\wsjuang\Desktop\exam1\WindowsFormsApplication1\obj\Debug\WindowsFormsAp
 C:\Users\wsjuang\Desktop\exam1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\wsjuang\Desktop\exam1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\wsjuang\Desktop\exam1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\wsjuang\Desktop\exam1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
